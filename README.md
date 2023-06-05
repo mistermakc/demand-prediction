@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Objective
+
+The objective of this project is to build a model to predict demand based on promotions and calculate baselines for predicting revenue uplift in a specific category.
+
 ## Table of Contents
 
 - [1. Data Collection](#1-data-collection)
