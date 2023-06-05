@@ -64,7 +64,7 @@ The data modeling section involves training and evaluating machine learning mode
 
 ## 5. Interpretation
 
-The interpretation section provides an overview of the team's utilization of the Dataiku platform for rigorous analysis and evaluation. It highlights the benefits of using Dataiku for modeling and decision-making processes.
+The Lasso Lars model performed well in our evaluation, explaining approximately 86.35% of the variance in the target variable (explained variance score of 0.8635) and achieving an R2 score of 0.8629. However, there is room for improvement as indicated by the Mean Absolute Error (MAE) of 141, Mean Squared Error (MSE) of 76,910, and Mean Absolute Percentage Error (MAPE) of 40.82%. While the model shows a strong positive linear correlation (Pearson coefficient of 0.9306) with actual values, it occasionally generates predictions significantly deviating from the actual values. Further enhancements are required to reduce prediction errors.
 
 ## License
 
